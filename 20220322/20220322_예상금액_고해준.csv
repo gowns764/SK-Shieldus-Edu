@@ -1,0 +1,17 @@
+그룹 계층 구조,리전,설명,서비스,선결제,월별,처음 12개월 합계,통화,구성 요약
+My Estimate,미국 서부(캘리포니아 북부),,Amazon EC2,0,771.11,9253.32,USD,"운영 체제 (Linux), 수량 (10), Pricing strategy (EC2 Instance Savings Plans 1 Year No UpFront), 스토리지 크기 (30 GB), 인스턴스 유형 (t4g.xlarge)"
+My Estimate,미국 서부(캘리포니아 북부),,Amazon EC2,0,753.48,9041.76,USD,"운영 체제 (Linux), 수량 (5), Pricing strategy (EC2 Instance Savings Plans 1 Year No UpFront), 스토리지 크기 (30 GB), 인스턴스 유형 (t4g.2xlarge)"
+My Estimate,미국 서부(캘리포니아 북부),,Amazon EC2,0,575.43,6905.16,USD,"운영 체제 (Linux), 수량 (1), Pricing strategy (EC2 Instance Savings Plans 1 Year No UpFront), 스토리지 크기 (2 TB), 인스턴스 유형 (m6g.4xlarge)"
+My Estimate,미국 서부(캘리포니아 북부),,Amazon EC2,0,1542.22,18506.64,USD,"운영 체제 (Linux), 수량 (20), Pricing strategy (EC2 Instance Savings Plans 1 Year No UpFront), 스토리지 크기 (30 GB), 인스턴스 유형 (t4g.xlarge)"
+My Estimate,미국 서부(캘리포니아 북부),,Amazon EC2,0,1506.95,18083.4,USD,"운영 체제 (Linux), 수량 (10), Pricing strategy (EC2 Instance Savings Plans 1 Year No UpFront), 스토리지 크기 (30 GB), 인스턴스 유형 (t4g.2xlarge)"
+My Estimate,미국 서부(캘리포니아 북부),,Amazon EC2,0,1640.88,19690.56,USD,"운영 체제 (Linux), 수량 (1), Pricing strategy (EC2 Instance Savings Plans 1 Year No UpFront), 스토리지 크기 (10 TB), 인스턴스 유형 (r6g.4xlarge)"
+My Estimate,미국 서부(캘리포니아 북부),,Amazon EC2,0,2091.8,25101.6,USD,"운영 체제 (Windows Server), 수량 (15), Pricing strategy (EC2 Instance Savings Plans 1 Year No UpFront), 스토리지 크기 (30 GB), 인스턴스 유형 (t3a.xlarge)"
+My Estimate,미국 서부(캘리포니아 북부),,Amazon EC2,0,30465,365580,USD,"운영 체제 (Windows Server), 수량 (10), Pricing strategy (EC2 Instance Savings Plans 1 Year No UpFront), 스토리지 크기 (10 TB), 인스턴스 유형 (m5a.8xlarge)"
+My Estimate,미국 서부(캘리포니아 북부),,Amazon EC2,0,557.81,6693.72,USD,"운영 체제 (Windows Server), 수량 (4), Pricing strategy (EC2 Instance Savings Plans 1 Year No UpFront), 스토리지 크기 (30 GB), 인스턴스 유형 (t3a.xlarge)"
+My Estimate,미국 서부(캘리포니아 북부),,Amazon EC2,0,1564.43,18773.16,USD,"운영 체제 (Linux), 수량 (2), Pricing strategy (EC2 Instance Savings Plans 1 Year No UpFront), 스토리지 크기 (1 TB), 인스턴스 유형 (m6g.8xlarge)"
+My Estimate,미국 서부(캘리포니아 북부),,Amazon Virtual Private Cloud (VPC),0,975.44,11705.28,USD,"월별 근무일 (22), DT 인바운드: Internet (10 월별 TB), DT 아웃바운드: Internet (9 월별 TB), DT 리전 내: (0 월별 TB), Site-to-Site VPN 연결 수 (4)"
+My Estimate,미국 서부(캘리포니아 북부),,Amazon RDS for MySQL,0,731.96,8783.52,USD,"각 RDS 인스턴스의 스토리지 (범용 SSD(gp2)), 스토리지 크기 (30 GB), 수량 (2), 인스턴스 유형 (db.m1.large), 사용률(온디맨드 전용) (100 %Utilized/Month), 배포 옵션 (Multi-AZ), 요금 모델 (OnDemand)"
+,,,,,,,,
+,,,,,,,,
+확인,,,,,,,,
+"* AWS Pricing Calculator는 AWS 요금에 대한 예상 비용만 제공하며, 해당되는 세금은 포함하지 않습니다. 실제 요금은 AWS 서비스의 실제 사용량을 포함하여 다양한 요소에 따라 달라질 수 있습니다.",,,,,,,,
